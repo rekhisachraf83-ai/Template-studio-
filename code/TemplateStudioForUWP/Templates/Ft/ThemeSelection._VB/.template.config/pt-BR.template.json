@@ -1,0 +1,6 @@
+﻿{
+  "author": "Microsoft",
+  "name": "Theme Selection",
+  "description": "Adiciona suporte a temas para seu aplicativo.",
+  "identity": "ts.Feature.ThemeSelection.VB"
+}

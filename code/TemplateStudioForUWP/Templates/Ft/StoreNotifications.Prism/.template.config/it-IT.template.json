@@ -1,0 +1,6 @@
+﻿{
+  "author": "Microsoft",
+  "name": "Dev Center Notifications",
+  "description": "Registra l'app per ricevere notifiche dallo store.",
+  "identity": "ts.Feat.StoreNotifications.Prism"
+}

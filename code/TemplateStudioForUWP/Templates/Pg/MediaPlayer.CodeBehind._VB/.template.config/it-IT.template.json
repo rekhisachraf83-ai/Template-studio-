@@ -1,0 +1,6 @@
+﻿{
+    "author": "Microsoft Community",
+    "name": "MediaPlayer",
+    "description": "Pagina in cui mostrare video con i controlli multimediali di sistema abilitati.",
+    "identity": "ts.Page.MediaPlayer.CodeBehind.VB"
+}

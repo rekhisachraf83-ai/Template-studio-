@@ -1,0 +1,6 @@
+﻿{
+  "author": "Microsoft Community",
+  "name": "Multi-Instance",
+  "description": "Uruchom wiele instancji aplikacji.",
+  "identity": "ts.Feat.MultiInstance"
+}

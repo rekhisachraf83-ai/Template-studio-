@@ -1,0 +1,6 @@
+﻿{
+  "author": "Microsoft Community",
+  "name": "DataGrid",
+  "description": "Una pagina con una semplice griglia di dati.",
+  "identity": "ts.Page.DataGrid.Prism"
+}

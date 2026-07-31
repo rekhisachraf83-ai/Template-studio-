@@ -1,0 +1,6 @@
+﻿{
+  "author": "Microsoft Community",
+  "name": "SQL Server Data",
+  "description": "Obtenha dados do SQL Server para usar no aplicativo.",
+  "identity": "ts.Service.SqlServerDataService.Prism"
+}

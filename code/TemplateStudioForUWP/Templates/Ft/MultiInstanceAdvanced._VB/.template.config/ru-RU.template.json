@@ -1,0 +1,6 @@
+﻿{
+    "author": "Microsoft Community",
+    "name": "Multi-Instance Advanced",
+    "description": "Управляет количеством запускаемых экземпляров приложения.",
+    "identity": "ts.Feat.MultiInstanceAdvanced.VB"
+}

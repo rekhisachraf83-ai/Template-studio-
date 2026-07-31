@@ -1,0 +1,6 @@
+﻿{
+  "author": "Microsoft",
+  "name": "Share Source",
+  "description": "Consente di supportare il contratto di condivisione nella tua app UWP per condividere dati della tua app con altri.",
+  "identity": "ts.Feat.ShareSource"
+}

@@ -1,0 +1,6 @@
+﻿{
+  "author": "Microsoft",
+  "name": "Azure Notifications",
+  "description": "Registra per ricevere e gestire messaggi dagli hub di notifica di Azure.",
+  "identity": "ts.Feat.HubNotifications"
+}

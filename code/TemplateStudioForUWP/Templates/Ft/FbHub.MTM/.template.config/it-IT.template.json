@@ -1,0 +1,6 @@
+﻿{
+  "author": "Microsoft Community",
+  "name": "Feedback Hub Link",
+  "description": "Aggiungi un collegamento all'Hub di Feedback nella pagina delle impostazioni.",
+  "identity": "ts.Feat.FeedbackHub.MVVMToolkit"
+}

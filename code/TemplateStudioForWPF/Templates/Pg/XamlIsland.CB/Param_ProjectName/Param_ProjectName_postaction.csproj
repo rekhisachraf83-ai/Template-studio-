@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+<!--^^-->
+<!--{[{-->
+    <StartupObject>Param_RootNamespace.Program</StartupObject>
+    <AssetTargetFallback>uap10.0.18362</AssetTargetFallback>
+<!--}]}-->
+  </PropertyGroup>
+</Project>
